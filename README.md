@@ -108,8 +108,11 @@ Scaling refers to increasing the size of the model (number of parameters), the d
 
 Understanding these scaling laws helps in optimizing model development and resource allocation. 
 <img width="1057" height="616" alt="Screenshot 2025-08-20 211429" src="https://github.com/user-attachments/assets/0187c337-2d4c-4381-b251-40ab88760c06" />
+
 <img width="995" height="508" alt="Screenshot 2025-08-20 211435" src="https://github.com/user-attachments/assets/d980a51a-4036-4dd1-a626-912c79680b11" />
+
 <img width="1514" height="930" alt="Screenshot 2025-08-20 211609" src="https://github.com/user-attachments/assets/4c8093d4-b1f3-4d0a-a51b-9540cb5d3934" />
+
 <img width="980" height="571" alt="Screenshot 2025-08-20 211452" src="https://github.com/user-attachments/assets/517ffb34-511e-4ca1-bf14-270282ab5b6d" />
 
 ## Conclusion
